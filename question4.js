@@ -14,6 +14,7 @@ const secondLargestValueOfArray = (Array) => {
       secondLargestNumber = Array[i];
     }
   }
+  //make 0 as 2nd largest value
   return secondLargestNumber;
 };
 const secondLargestNumber = secondLargestValueOfArray(num);

@@ -1,3 +1,4 @@
+//checking divisibility
 var a = 500;
 if (500 % 3 == 0) {
   console.log("is dividible by 3");
